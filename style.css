@@ -1,0 +1,26 @@
+body {
+  background-color: #bbb;
+}
+
+a {
+  color: #494;
+  text-decoration: none;
+}
+
+img {
+  /*border-width: 1;
+  border-color: black;
+  border-style: solid;*/
+  vertical-align: middle;;
+}
+
+header {
+  /*border-style: groove;
+  border-width: 2;
+  border-color: blue;*/
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
